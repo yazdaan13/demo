@@ -1,14 +1,5 @@
 {
   "posts": [
-    
-    { "id": 1,
-     "date": "d",
-     "time": "t",
-     "header": "",
-     "body": "test",
-     "view": 3577 
-    },
-    
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
