@@ -2,7 +2,8 @@
   "posts": [
     { "id": 1,
      "view": 3577,
-     "date": "01:23   1398/02/17",],
+     "date": "01:23   1398/02/17"
+     ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
