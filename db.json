@@ -1,8 +1,6 @@
 {
   "posts": [
-    { "id": 1,"date": "d", "time": "t", "header": "h", "footer": "f", "body": "b\
-     first\
-     seconda", "view": 3577 },
+    { "id": 1,"date": "d", "time": "t", "header": "h", "footer": "f", "view": 3577 },
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
